@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "228767791564",
+    "firebase_url": "https://sesion09-eje01-default-rtdb.firebaseio.com",
+    "project_id": "sesion09-eje01",
+    "storage_bucket": "sesion09-eje01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228767791564:android:18787dac99b86016b94569",
+        "android_client_info": {
+          "package_name": "com.ejemplo.eje01sesion09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHFrc_oBtTO4Png3OokNY1UsdGfKxYMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
